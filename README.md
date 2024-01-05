@@ -2,6 +2,7 @@
 /**
  *
  * @author nivasharma
+ * This Java program calculates the income tax based on the filing status and taxable income entered by the user.
  */
 import java.util.Scanner;
 
