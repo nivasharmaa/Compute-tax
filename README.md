@@ -16,5 +16,5 @@ SmartTax Pro is an advanced Java program designed to accurately compute income t
 - Tax Calculation Algorithms
 
 
-    }
+    
 
